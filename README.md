@@ -1,6 +1,6 @@
 # Windows-autounattend.xml-GER-
 Diese XML wird einfach dem Root Verzeichnis deines Windows Installations USB Stickt beigefügt. 
-# Windows 10/11 Unattended Setup (Autounattend.xml)
+# Windows 11 Unattended Setup (Autounattend.xml)
 
 Diese `autounattend.xml`-Datei automatisiert die Installation und Erstkonfiguration eines Windows-Betriebssystems (basierend auf der Windows Pro Edition). Das Skript wurde mit Fokus auf deutsche Spracheinstellungen, Benutzerkonten-Erstellung sowie verschiedene Systemhärtungen und Shell-Anpassungen erstellt.
 
